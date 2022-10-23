@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonkristiono
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, Javascript, and Rust
+- 🌱 I’m currently learning Python, Javascript, Go and Rust
 
 <!---
 antonkristiono/antonkristiono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
